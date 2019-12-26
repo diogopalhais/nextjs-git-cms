@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import content from '../content/home.md';
+import content from '../content/about.md';
 
 export default class Home extends Component {
     render() {
